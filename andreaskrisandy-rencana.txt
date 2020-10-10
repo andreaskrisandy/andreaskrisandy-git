@@ -3,4 +3,6 @@ Rencana Konten Andreas Krisandy
  - PHP Native 
  - Codeigniter
  - Javascript
- - CSS
+ - Data Sience
+ - Laravel
+ 
