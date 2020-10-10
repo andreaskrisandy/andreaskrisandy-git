@@ -5,4 +5,7 @@ Rencana Konten Andreas Krisandy
  - Javascript
  - Data Sience
  - Laravel
- 
+ - CSS
+ - Python
+ - SASS
+
